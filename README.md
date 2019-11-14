@@ -6,7 +6,7 @@ For Assignment 1 - instructions:
 3) after that run python3 manage.py runserver and hit this ip on the chrome - 127.0.0.1:8000
 
 
-# ========================
+#
 1) signup api - http://127.0.0.1:8000/api/v1/signup/ - method - post
     data_fields = {name: 'chefling',
             email: 'chefling@gmail.com,
